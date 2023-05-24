@@ -1,0 +1,32 @@
+.card-text{
+    width: 100px;
+}
+.cards{
+   width: 1000px; 
+   margin-top: 30px;
+}
+.newdetails{
+    height: 100px;
+    width: 100px;
+    background-color: #F1F6F9;
+}
+.nwform{
+    margin-top: 100px;
+    width: 1000px;
+    background-image:"https://plus.unsplash.com/premium_photo-1661773325856-ef5a49024435?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTV8fGFncmljdWx0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60";
+}
+footer{
+    position: relative;
+    height: 100px;
+    background-color: dimgrey;
+    margin-top: 150px;
+    
+    
+}
+
+.footer-text{
+
+    position:relative;
+    text-align: center;
+    top: auto;
+}

@@ -1,0 +1,142 @@
+.container{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    top: 250px;
+    right: 482px;
+}
+body{
+    margin: auto;
+}
+.cpdetails{
+    height: 100px;
+    width: 100px;
+    background-color: #F1F6F9;
+}
+
+.cpsell{
+    height: 100px;
+    width: 100px;
+    background-color: #F1F6F9;
+}
+.headImg{
+    background-image: url("Images/wheat-2391348_640.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat ;
+    position: relative; 
+    width: 100%;
+    height: 300px;
+}
+
+
+.title{
+    position: relative;
+    width: 12cm;
+    left: 35%;
+    top: 80px;
+    font-size: 3em;
+    font-family: serif;
+    color:oldlace;
+}
+
+.moto{
+    position: relative;
+    left: 37%;
+    width: 11cm;
+    top: 100px;
+    font-size: 2em;
+    font-family: serif;
+    color:red;
+}
+
+.carousel-img{
+    width: 100%;
+    height: 450px;
+}
+
+.loginSection{
+    height: 300px;
+    margin: 150px 150px 150px;
+}
+
+.farmerloginbox{
+  border-radius: 25px;
+  display: inline-block;
+  border: 2px solid blue;
+  padding: 20px;
+  width: 450px;
+  height: 250px;
+  margin-left: 120px;
+  margin-top: 100px;
+  margin-bottom:100px ;
+}
+
+.officerloginbox{
+  border-radius: 25px;
+  display:inline-block;
+  border: 2px solid blue;
+  margin-left: 120px;
+  margin-bottom: 100px;
+  padding: 20px;
+  width: 450px;
+  height: 250px;
+}
+.loginImg{
+    width:130px;
+    height: 130px;
+    margin-left: 135px;
+}
+.loginbutton{
+    margin-top: 25px;
+    height: 50px;;
+}
+.bottomdiv{
+    background: blue;
+}
+.agidpt{
+    display: inline;
+    position: absolute;
+    left: 308px;
+    top: 20px;
+}
+.skishan{
+    display: inline;
+    position: absolute;
+    left: 308px;
+    top: 50px;
+}
+.heade{
+    height: 110px;
+}
+.logo{
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 200px;
+    margin-top: 16px;
+    height: 80px;
+    
+    
+}
+.logo1{
+    height: 80px;
+    width: 35px;
+    position: absolute;
+    right: 348px;
+    top: 24px;
+}
+.logo2{
+    height: 80px;
+    width: 120px;
+    position: absolute;
+    right: 208px;
+    top: 24px;
+}
+.slideimage{
+    position: absolute;
+    width: 100%;
+    left: 0px;
+}
+.bottomwelcome{
+    position: absolute;
+    top: 220px;
+}
